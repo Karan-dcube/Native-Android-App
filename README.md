@@ -13,7 +13,7 @@ New version of Stepic App is now available on Google Play.
 
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/StepicOrg/stepik-android/master/screenshots/4-eng.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/StepicOrg/stepik-android/master/screenshots/4-eng.png" width="500" height="500">
 <img src="https://raw.githubusercontent.com/StepicOrg/stepik-android/master/screenshots/1-eng.png"><img src="https://raw.githubusercontent.com/StepicOrg/stepik-android/master/screenshots/2-eng.png"><img src="https://raw.githubusercontent.com/StepicOrg/stepik-android/master/screenshots/3-eng.png">
 
 ## License
